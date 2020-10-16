@@ -1,1 +1,2 @@
 bundle/7218c/7218c-flutter.tar.gz filter=lfs diff=lfs merge=lfs -text
+bundle/rpi/rpi-flutter.tar.gz filter=lfs diff=lfs merge=lfs -text
